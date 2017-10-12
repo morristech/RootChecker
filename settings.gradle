@@ -1,1 +1,1 @@
-include ':app', ':root-annotations', ':root-compiler', ':mylibrary'
+include ':app', ':root-annotations', ':root-compiler', ':mylibrary', ':lib'
