@@ -9,10 +9,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/lib" />
-            <option value="$PROJECT_DIR$/mylibrary" />
-            <option value="$PROJECT_DIR$/root-annotations" />
-            <option value="$PROJECT_DIR$/root-compiler" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
