@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RootChecker.iml" filepath="$PROJECT_DIR$/RootChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-annotations/root-annotations.iml" filepath="$PROJECT_DIR$/root-annotations/root-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-compiler/root-compiler.iml" filepath="$PROJECT_DIR$/root-compiler/root-compiler.iml" />
+    </modules>
+  </component>
+</project>
